@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/vikpe/vikpe/main/background.jpg)
+<img src="https://raw.githubusercontent.com/vikpe/vikpe/main/background.jpg" width="100%">
