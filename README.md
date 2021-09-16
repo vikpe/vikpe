@@ -1,1 +1,1 @@
-![](https://raw.githubusercontent.com/vikpe/vikpe/main/synthwave_pixel.png)
+<img src="https://raw.githubusercontent.com/vikpe/vikpe/main/background.png">
